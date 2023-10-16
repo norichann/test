@@ -4,7 +4,6 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-  <span>abc</span>
 </template>
 
 <style scoped>
